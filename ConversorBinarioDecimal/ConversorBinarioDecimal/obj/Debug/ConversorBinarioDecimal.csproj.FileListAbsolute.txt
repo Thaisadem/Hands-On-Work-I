@@ -1,0 +1,10 @@
+C:\Users\thaim\source\repos\ConversorBinarioDecimal\ConversorBinarioDecimal\bin\Debug\ConversorBinarioDecimal.exe.config
+C:\Users\thaim\source\repos\ConversorBinarioDecimal\ConversorBinarioDecimal\bin\Debug\ConversorBinarioDecimal.exe
+C:\Users\thaim\source\repos\ConversorBinarioDecimal\ConversorBinarioDecimal\bin\Debug\ConversorBinarioDecimal.pdb
+C:\Users\thaim\source\repos\ConversorBinarioDecimal\ConversorBinarioDecimal\obj\Debug\ConversorBinarioDecimal.csprojAssemblyReference.cache
+C:\Users\thaim\source\repos\ConversorBinarioDecimal\ConversorBinarioDecimal\obj\Debug\ConversorBinarioDecimal.FormConversorBinarioDecimal.resources
+C:\Users\thaim\source\repos\ConversorBinarioDecimal\ConversorBinarioDecimal\obj\Debug\ConversorBinarioDecimal.Properties.Resources.resources
+C:\Users\thaim\source\repos\ConversorBinarioDecimal\ConversorBinarioDecimal\obj\Debug\ConversorBinarioDecimal.csproj.GenerateResource.cache
+C:\Users\thaim\source\repos\ConversorBinarioDecimal\ConversorBinarioDecimal\obj\Debug\ConversorBinarioDecimal.csproj.CoreCompileInputs.cache
+C:\Users\thaim\source\repos\ConversorBinarioDecimal\ConversorBinarioDecimal\obj\Debug\ConversorBinarioDecimal.exe
+C:\Users\thaim\source\repos\ConversorBinarioDecimal\ConversorBinarioDecimal\obj\Debug\ConversorBinarioDecimal.pdb
